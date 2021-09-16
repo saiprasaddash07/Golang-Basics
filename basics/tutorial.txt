@@ -1,0 +1,13 @@
+1) To turn a go code into module
+    => go init github.com/orgname/firstapp
+
+2) Actually packages are where our code exists
+3) Many packages together combined to be called as a module
+
+4) We can import diff packages
+5) Also we can import modules in another modules as well
+
+6) To run the module code
+	=> go run .
+
+7) To use a variable outside of the package start the first char with Uppercase
